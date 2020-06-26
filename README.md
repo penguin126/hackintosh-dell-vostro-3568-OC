@@ -1,7 +1,7 @@
 <h1>Support Dell Vostro 3000 series for MacOS(Mojave/ Catalina)</h1>
 <h2>Technical specifications</h2>
 <table>
-  <thead>
+  <thead class="text-center">
     <tr>
       <td>Feature</td>
       <td>Specification</td>
