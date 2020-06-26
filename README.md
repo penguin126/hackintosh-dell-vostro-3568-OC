@@ -16,5 +16,25 @@
       <td>Processor type</td>
       <td>Intel Core i5 7200U</td>
     </tr>
+     <tr>
+      <td>VGA</td>
+      <td>Intel HD Graphics 620</td>
+    </tr>
+    <tr>
+      <td>Memory</td>
+      <td>8GB (DDR4 2400MHz)</td>
+    </tr>
+    <tr>
+      <td>Screen Resolution</td>
+      <td>FHD (1920x1080)</td>
+    </tr>
+    <tr>
+      <td>Controller</td>
+      <td>Realtek ALC3246/256 (layout-id: 11)</td>
+    </tr>
+    <tr>
+      <td>Wireless</td>
+      <td>Intel Wireless-AC 3165</td>
+    </tr>
   </tbody>
 </table>
