@@ -1,4 +1,4 @@
-<h1>Support Dell Vostro 3568 for MacOS(Mojave/ Catalina)</h1>
+<h1>Support Dell Vostro 3000 series for MacOS(Mojave/ Catalina)</h1>
 <h2>Technical specifications</h2>
 <table>
   <thead>
