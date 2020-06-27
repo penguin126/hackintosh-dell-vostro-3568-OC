@@ -1,5 +1,5 @@
 <h1>Support Dell Vostro 3000 series for MacOS(Mojave/ Catalina)</h1>
-<h2>Technical specifications</h2>
+<h2>Technical Specifications</h2>
 <table>
   <thead>
     <tr>
@@ -34,7 +34,12 @@
     </tr>
     <tr>
       <td>Wireless</td>
-      <td>Intel Wireless-AC 3165</td>
+      <td>
+        <ul>
+          <li>Intel Wireless-AC 3165</li>
+          <li>Bluetooth 4.0</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
