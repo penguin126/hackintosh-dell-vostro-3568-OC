@@ -1,10 +1,10 @@
 <h1>Support Dell Vostro 3000 series for MacOS(Mojave/ Catalina)</h1>
 <h2>Technical specifications</h2>
 <table>
-  <thead class="text-center">
+  <thead>
     <tr>
-      <td>Feature</td>
-      <td>Specification</td>
+      <td style="text-align: center">Feature</td>
+      <td style="text-align: center">Specification</td>
     </tr>
   </thead>
   <tbody>
@@ -38,3 +38,5 @@
     </tr>
   </tbody>
 </table>
+<h2>Screen Capture</h2>
+<img src="https://lh3.googleusercontent.com/ZyNmc_H-bfywyIEBHp2rDzy5XChT8n197EFXMAngnxLj4Hex5XKfduLyaZhswU9zKKFA5phw7imtHLZ2mfgymYKK5-SEDNkY_J0Px3HfZITh4o1TvoBJlLUSMj88VL6S-aXAWp0103AmKVs3TT88naMFZwsFMXWkO-zboob_-0VNCEkwhJLC_8wBW4TLpOU5n2J0dcmYr-FIRTtjwxSKTbYvUHbPILWtK-N6sLu4tICmkjCOQI2Nb0pQttwhQKa2U1tEDY3YvkWr_Nz1TBUenSkuUH1RF3RgKC9eYr_9gALeUOpT4vnT8_kXfqJG6IE9xaFtCxOrCDtZXbOZABBNTKawt_MCBIxEY5KfXjbPLlDKGOsKOXhrap_WcaDwvgc57t5TdeGN7NQypCn-zLdHypLtuPnjYJObQa2F-g8bYeyU6MRv5HNJklKlOuvg7Dw9_myXuVwDtq6nC9O-5d8xaC9w9msjm67UZwQ_IhsqGLdyVCSuzHXfz1mbZ2C5OoRWzs6EGq8SXnOLhWmhprsXMWVmREs8AK_g0lSXtDIDVWXT2WQFXEI_OkMeIKi_KSdiYN5-AUL4xHQdFTiqZZGFgqBEqt-MeDT-1zbfsLzZaMmi7wRE4rMnZgAGgiWeK9nO3ZCDRWiwQeIsQ9OeWHsilIFLPyS-JSxnBXpnwSF1ELXVdDi_aY8SxFKJKyoYpg=w1266-h712-no?authuser=0"></img>
