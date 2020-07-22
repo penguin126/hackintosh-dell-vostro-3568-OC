@@ -57,6 +57,7 @@
 <h2>Screen Capture</h2>
 <img src="https://scontent.fsgn5-2.fna.fbcdn.net/v/t1.0-0/p180x540/104568256_1110394322678697_75468628535693777_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=cJ2uqZeWUvkAX81g67f&_nc_ht=scontent.fsgn5-2.fna&_nc_tp=6&oh=ad29384edb1919167ef8cc45b945e64d&oe=5F1C0D6B"></img>
 <h2>3. ComboJack/ External Microphone</h2>
+<h3>Follow the instruction below to fix external microphone</h3>
 <ul>
   <li>Step 1: Delete CodecCommander.kext then put ComboJack/ VerbStub.kext in Clover/kexts/Other</li>
   <li>Step 2: Run ComboJack/install.sh with root privilege</li>
